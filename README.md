@@ -3,7 +3,6 @@
 
 Analyse the dataset and using Decision Trees and Random Forests in Python predicting kyphosis present or absent within children
 
-
 ![image](https://user-images.githubusercontent.com/48589838/77820184-5e0eeb80-7106-11ea-869b-5bd93b7ada23.png)
 
 
